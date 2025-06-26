@@ -10,7 +10,7 @@ MITRE Caldera&trade; is a cyber security platform designed to easily automate ad
 
 It is built on the [MITRE ATT&CK™ framework](https://attack.mitre.org/) and is an active research project at MITRE.
 
-The framework consists of two components:
+The framework consists of two components:-
 
 1) **The core system**. This is the framework code, consisting of what is available in this repository. Included is
 an asynchronous command-and-control (C2) server with a REST API and a web interface.
